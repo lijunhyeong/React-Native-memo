@@ -190,6 +190,7 @@ const Main  = ({navigation}) => {
   // SafeAreaView는 시계 및 시간 등이 나오는 영역을 피하게 뷰를 지정
   // renderItem: 화면에 어떻게 리스트가 보여지는지 설정
   // onChangeText: 오직 text만을 반환한다.
+  // Modal: 사용자 인터페이스 디자인 개념에서 자식 윈도에서 부모 윈도로 돌아가기 전에 사용자의 상호동작을 요구하는 창
   return(
     <SafeAreaView style={{flex:1, backgroundColor: COLORS.white}} >
       <View style={styles.header}>

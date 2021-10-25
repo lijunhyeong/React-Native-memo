@@ -10,3 +10,4 @@
  // registerComponent에 앱 프로젝트 파일 명과  App 컴포넌트를 등록해서 첫 진입점을 설정한다. 
  AppRegistry.registerComponent(appName, () => App);
  
+ 
