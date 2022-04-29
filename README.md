@@ -1,4 +1,4 @@
-# ReactNative - TodoList
+# TodoList
 ### React Native를 활용하여 CRUD 기능을 넣은  TodoList app  
 ![react_native_Todo](https://user-images.githubusercontent.com/72978589/165893229-dae7bb4d-c1e9-45b8-83d1-74dddc1c9928.gif)
 
